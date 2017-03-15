@@ -7,4 +7,3 @@ rvm:
   - jruby
 env:
   - MINTY_PASSWORD=not_real_example_password
-script: bundle exec rspec
